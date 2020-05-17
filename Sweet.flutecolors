@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "Sweet",
+  "Author": "Opa Kholis Majid",
+  "Colors": {
+    "Foreground": "#C3C7D1",
+    "Background": "#161925",
+    "Cursor": "#C3C7D1",
+    "CursorAccent": "#161925",
+    "Selection": "rgba(255, 0, 230, 0.3)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#555753",
+    "Red": "#ed254e",
+    "Green": "#71f79f",
+    "Yellow": "#f9dc5c",
+    "Blue": "#7cb7ff",
+    "Magenta": "#c74ded",
+    "Cyan": "#00c1e4",
+    "White": "#F2EFEA",
+    "BrightBlack": "#555753",
+    "BrightRed": "#ed254e",
+    "BrightGreen": "#71f79f",
+    "BrightYellow": "#f9dc5c",
+    "BrightBlue": "#7cb7ff",
+    "BrightMagenta": "#c74ded",
+    "BrightCyan": "#00c1e4",
+    "BrightWhite": "#F2EFEA"
+  },
+  "BackgroundImage": null
+}
